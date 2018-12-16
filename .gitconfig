@@ -1,0 +1,7 @@
+[user]
+	name = Derrell
+	email = afroderrell@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = emacs

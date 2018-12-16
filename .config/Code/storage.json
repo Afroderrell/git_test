@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "36506cea54360d69d3e4c47ba060f27316c52291c90143e7dcc86c5dee422dc5",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/afroderrell/odin_on_rails/my_first_rails_app"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/afroderrell/odin_on_rails/my_first_rails_app",
+                "external": "file:///home/afroderrell/odin_on_rails/my_first_rails_app",
+                "path": "/home/afroderrell/odin_on_rails/my_first_rails_app",
+                "scheme": "file"
+            },
+            "backupPath": "/home/afroderrell/.config/Code/Backups/0d51ae9362ad401901da0230c7a9fb51",
+            "uiState": {
+                "mode": 1,
+                "x": -22,
+                "y": 25,
+                "width": 800,
+                "height": 575
+            }
+        }
+    }
+}
